@@ -4674,6 +4674,7 @@ MonoBehaviour:
   m_System: {fileID: 1279452832}
   m_TurnUsage: 0
   m_Controllers:
+  - {fileID: 469473185}
   - {fileID: 282479490}
   m_TurnAmount: 45
   m_DebounceTime: 0.5
